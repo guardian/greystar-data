@@ -6,4 +6,4 @@ The data has the number of apartment units by local market and by state as of De
 
 The breakdown is based on an analysis by [Private Equity Stakeholder Project](https://pestakeholder.org/about-us/our-mission-and-values/), a nonprofit watchdog group, of data provided by [Yardi Matrix](https://www.yardimatrix.com/), a leading commercial real estate intelligence firm.
 
-Download the data here and read the investigation here.
+Download the data [here](https://github.com/guardian/greystar-data/tree/96a0950a205094dd9fe1ebe0a7d8215985836526/data) and read the investigation [here]().
