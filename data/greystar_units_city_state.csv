@@ -1,961 +1,960 @@
-State,City,MANAGE,,
-AL,Auburn,423,,
-,Birmingham,173,,
-,Huntsville,679,,
-,Madison,561,,
-,Tuscaloosa,370,,
-AR,Alexander,403,,
-,Rogers,347,,
-AZ,Avondale,2025,,
-,Buckeye,211,,
-,Casa Grande,240,,
-,Chandler,4568,,
-,Flagstaff,1023,,
-,Gilbert,1942,,
-,Glendale,3054,,
-,Goodyear,1040,,
-,Laveen,130,,
-,Litchfield Park,285,,
-,Maricopa,348,,
-,Mesa,3869,,
-,Peoria,1803,,
-,Phoenix,16213,,
-,Queen Creek,240,,
-,Scottsdale,5508,,
-,Surprise,587,,
-,Tempe,6347,,
-,Tolleson,195,,
-,Tucson,1550,,
-CA,Alameda,518,,
-,Aliso Viejo,1265,,
-,Anaheim,2659,,
-,Antelope,728,,
-,Antioch,280,,
-,Azusa,290,,
-,Belmont,177,,
-,Berkeley,922,,
-,Brentwood,288,,
-,Burbank,1085,,
-,Burlingame,576,,
-,Campbell,180,,
-,Canoga Park,252,,
-,Capitola,78,,
-,Carlsbad,692,,
-,Carmichael,182,,
-,Chino Hills,332,,
-,Chula Vista,3638,,
-,Concord,201,,
-,Corona,1125,,
-,Costa Mesa,113,,
-,Culver City,454,,
-,Daly City,3103,,
-,Dana Point,109,,
-,Danville,96,,
-,Duarte,636,,
-,Dublin,390,,
-,East Palo Alto,1809,,
-,El Cajon,676,,
-,El Monte,208,,
-,Encinitas,72,,
-,Escondido,1951,,
-,Fairfield,380,,
-,Folsom,571,,
-,Fontana,550,,
-,Fountain Valley,433,,
-,Fremont,1002,,
-,Fullerton,615,,
-,Glendale,2369,,
-,Grand Terrace,556,,
-,Hayward,853,,
-,Hercules,172,,
-,Highland,200,,
-,Hollywood,180,,
-,Huntington Beach,1184,,
-,Inglewood,460,,
-,Irvine,775,,
-,Isla Vista,137,,
-,La Jolla,449,,
-,La Mesa,1259,,
-,La Quinta,371,,
-,Laguna Beach,421,,
-,Lake Elsinore,352,,
-,Lakewood,420,,
-,Lancaster,573,,
-,Larkspur,590,,
-,Lathrop,195,,
-,Livermore,458,,
-,Lompoc,328,,
-,Long Beach,2317,,
-,Los Angeles,16140,,
-,Los Gatos,290,,
-,Marina,693,,
-,Marina Del Rey,1341,,
-,Martinez,268,,
-,Menifee,567,,
-,Menlo Park,934,,
-,Milpitas,216,,
-,Monrovia,1083,,
-,Montclair,513,,
-,Monterey,149,,
-,Moorpark,370,,
-,Moreno Valley,686,,
-,Morgan Hill,527,,
-,Mountain View,2466,,
-,Murrieta,1202,,
-,Newport Beach,1306,,
-,North Hollywood,2076,,
-,Oakland,1556,,
-,Oceanside,837,,
-,Ontario,281,,
-,Orange,634,,
-,Orangevale,254,,
-,Palm Desert,467,,
-,Palo Alto,92,,
-,Paramount,306,,
-,Pasadena,2354,,
-,Paso Robles,356,,
-,Perris,228,,
-,Petaluma,335,,
-,Placentia,418,,
-,Pleasant Hill,728,,
-,Pleasanton,651,,
-,Pomona,472,,
-,Rancho Cucamonga,1837,,
-,Rancho Palos Verdes,215,,
-,Rancho Santa Margarita,613,,
-,Redwood City,607,,
-,Richmond,480,,
-,Riverside,2367,,
-,Rocklin,171,,
-,Rohnert Park,516,,
-,Roseville,189,,
-,Sacramento,2518,,
-,Salinas,484,,
-,San Bruno,163,,
-,San Clemente,518,,
-,San Diego,16640,,
-,San Francisco,8665,,
-,San Gabriel,133,,
-,San Jose,6332,,
-,San Marcos,1276,,
-,San Mateo,1165,,
-,San Pablo,141,,
-,San Pedro,461,,
-,San Ramon,192,,
-,San Ysidro,223,,
-,Santa Ana,3224,,
-,Santa Clara,1920,,
-,Santa Clarita,1071,,
-,Santa Cruz,458,,
-,Santa Fe Springs,134,,
-,Santa Maria,924,,
-,Santa Monica,962,,
-,Santa Rosa,1123,,
-,Santee,428,,
-,Sausalito,198,,
-,Sherman Oaks,236,,
-,South San Francisco,234,,
-,Spring Valley,199,,
-,Stanton,621,,
-,Stevenson Ranch,295,,
-,Sunnyvale,1745,,
-,Temecula,1581,,
-,Thousand Oaks,218,,
-,Torrance,494,,
-,Tustin,240,,
-,Vacaville,310,,
-,Valencia,267,,
-,Vallejo,700,,
-,Venice,70,,
-,Ventura,1073,,
-,Vista,1265,,
-,Walnut Creek,820,,
-,West Covina,611,,
-,West Hollywood,124,,
-,West Sacramento,400,,
-,Westlake Village,126,,
-,Whittier,138,,
-,Wildomar,600,,
-,Woodland,192,,
-,Woodland Hills,660,,
-CO,Arvada,1480,,
-,Aurora,5594,,
-,Boulder,609,,
-,Brighton,288,,
-,Broomfield,1070,,
-,Castle Rock,111,,
-,Centennial,987,,
-,Colorado Springs,5833,,
-,Denver,16355,,
-,Englewood,1757,,
-,Erie,151,,
-,Firestone,300,,
-,Fort Collins,1708,,
-,Glendale,324,,
-,Golden,774,,
-,Greeley,304,,
-,Greenwood Village,387,,
-,Highlands Ranch,1463,,
-,Lakewood,3623,,
-,Littleton,2888,,
-,Lone Tree,939,,
-,Longmont,440,,
-,Louisville,180,,
-,Loveland,592,,
-,Morrison,144,,
-,Northglenn,172,,
-,Parker,1121,,
-,Sheridan,316,,
-,Superior,405,,
-,Thornton,1895,,
-,Westminster,2892,,
-,Wheat Ridge,378,,
-CT,Darien,122,,
-,Middletown,240,,
-,New Canaan,104,,
-,Newington,269,,
-,Stamford,1096,,
-,Storrs,618,,
-,Trumbull,199,,
-,Wilton,173,,
-DC,Washington,14161,,
-DE,Newark,228,,
-,Wilmington,447,,
-FL,Altamonte Springs,1114,,
-,Apopka,762,,
-,Boca Raton,885,,
-,Boynton Beach,210,,
-,Bradenton,232,,
-,Brandon,372,,
-,Cape Coral,724,,
-,Casselberry,203,,
-,Clearwater,2343,,
-,Clermont,392,,
-,Coral Gables,213,,
-,Coral Springs,348,,
-,Dania Beach,293,,
-,Davenport,1489,,
-,Davie,232,,
-,Daytona Beach,696,,
-,DeLand,233,,
-,Delray Beach,1235,,
-,Destin,780,,
-,Doral,978,,
-,Estero,306,,
-,Fort Lauderdale,1641,,
-,Fort Myers,2423,,
-,Four Corners,300,,
-,Freeport,259,,
-,Hialeah,358,,
-,Homestead,288,,
-,Jacksonville,2661,,
-,Kissimmee,4165,,
-,Lady Lake,68,,
-,Lake Worth,668,,
-,Lakeland,1027,,
-,Lakewood Ranch,417,,
-,Land O' Lakes,625,,
-,Longwood,507,,
-,Lutz,753,,
-,Maitland,455,,
-,Margate,282,,
-,Mary Esther,229,,
-,Melbourne,471,,
-,Miami,6452,,
-,Miramar,530,,
-,Mount Dora,309,,
-,Naples,1708,,
-,New Port Richey,300,,
-,North Fort Myers,283,,
-,North Lauderdale,220,,
-,North Miami,175,,
-,North Venice,276,,
-,Ocala,228,,
-,Ocoee,315,,
-,Odessa,350,,
-,Orlando,9494,,
-,Oviedo,313,,
-,Palm Bay,197,,
-,Palm Beach Gardens,1141,,
-,Palm Harbor,264,,
-,Palmetto,724,,
-,Palmetto Bay,60,,
-,Panama City,233,,
-,Panama City Beach,488,,
-,Pembroke Pines,593,,
-,Pensacola,567,,
-,Pinellas Park,300,,
-,Plantation,1052,,
-,Pompano Beach,211,,
-,Port Orange,1026,,
-,Port St. Lucie,372,,
-,Riverview,352,,
-,Sanford,1048,,
-,Santa Rosa Beach,384,,
-,Sarasota,1204,,
-,St. Augustine,954,,
-,St. Cloud,300,,
-,St. Johns,844,,
-,St. Petersburg,769,,
-,Stuart,604,,
-,Tallahassee,528,,
-,Tampa,5439,,
-,Trinity,348,,
-,Venice,520,,
-,Wesley Chapel,150,,
-,West Melbourne,373,,
-,West Miami,196,,
-,West Palm Beach,738,,
-,Weston,368,,
-,Wildwood,373,,
-,Wimauma,196,,
-,Windermere,346,,
-,Winter Garden,810,,
-,Winter Park,178,,
-GA,Acworth,923,,
-,Alpharetta,1169,,
-,Athens,390,,
-,Atlanta,15372,,
-,Augusta,1007,,
-,Austell,735,,
-,Bethlehem,288,,
-,Brookhaven,291,,
-,Buford,374,,
-,Cartersville,790,,
-,Chamblee,894,,
-,Columbus,340,,
-,Conyers,192,,
-,Covington,615,,
-,Cumming,630,,
-,Dallas,277,,
-,Dalton,234,,
-,Decatur,1111,,
-,Duluth,2446,,
-,Evans,300,,
-,Fairburn,540,,
-,Gainesville,936,,
-,Johns Creek,224,,
-,Jonesboro,198,,
-,Kennesaw,2107,,
-,LaGrange,615,,
-,Lawrenceville,748,,
-,Lithia Springs,942,,
-,Loganville,175,,
-,Mableton,270,,
-,Marietta,1070,,
-,Martinez,274,,
-,McDonough,1404,,
-,Newnan,269,,
-,Norcross,918,,
-,Oakwood,248,,
-,Peachtree Corners,544,,
-,Pooler,475,,
-,Port Wentworth,1243,,
-,Roswell,498,,
-,Sandy Springs,733,,
-,Savannah,2492,,
-,Smyrna,634,,
-,South Fulton,319,,
-,Stockbridge,657,,
-,Stone Mountain,479,,
-,Suwanee,98,,
-,Tucker,891,,
-,Union City,913,,
-,Villa Rica,280,,
-,Woodstock,502,,
-HI,Ewa Beach,1775,,
-,Honolulu,388,,
-,Kapolei,1019,,
-IA,West Des Moines,420,,
-ID,Boise,1151,,
-,Caldwell,316,,
-,Coeur d'Alene,426,,
-,Eagle,184,,
-,Meridian,420,,
-,Post Falls,84,,
-,Rathdrum,276,,
-IL,Arlington Heights,280,,
-,Aurora,1084,,
-,Chicago,6486,,
-,Downers Grove,167,,
-,Edwardsville,168,,
-,Elk Grove,192,,
-,Elmhurst,364,,
-,Evanston,344,,
-,Glenview,169,,
-,La Grange,254,,
-,Lincolnwood,299,,
-,Lockport,240,,
-,Lombard,470,,
-,Mount Prospect,1295,,
-,Mundelein,166,,
-,Naperville,544,,
-,Park Ridge,115,,
-,Pingree Grove,99,,
-,Skokie,172,,
-,Tinley Park,144,,
-,Vernon Hills,447,,
-IN,Greenwood,552,,
-,Indianapolis,1372,,
-,Noblesville,318,,
-KS,Fairway,209,,
-,Kansas City,228,,
-,Lenexa,850,,
-,Overland Park,668,,
-,Prairie Village,282,,
-,Shawnee Mission,188,,
-,Wichita,1041,,
-KY,Covington,178,,
-,Louisville,3385,,
-LA,Baton Rouge,939,,
-,Gonzales,299,,
-,Hammond,312,,
-,Lafayette,348,,
-,Lake Charles,264,,
-,Metairie,336,,
-,New Orleans,330,,
-,Scott,216,,
-MA,Abington,198,,
-,Allston,50,,
-,Amherst,140,,
-,Andover,115,,
-,Arlington,164,,
-,Beverly,384,,
-,Billerica,324,,
-,Bolton,229,,
-,Boston,5459,,
-,Brighton,150,,
-,Cambridge,1422,,
-,Chelsea,452,,
-,Cohasset,220,,
-,Concord,350,,
-,Dedham,585,,
-,East Boston,230,,
-,Everett,1905,,
-,Framingham,528,,
-,Hanover,297,,
-,Hingham,220,,
-,Hudson,158,,
-,Lynn,725,,
-,Malden,295,,
-,Mansfield,200,,
-,Marlboro,240,,
-,Marlborough,1046,,
-,Marshfield,248,,
-,Medford,282,,
-,Melrose,182,,
-,Natick,164,,
-,Needham,189,,
-,Norton,188,,
-,Pembroke,240,,
-,Plymouth,220,,
-,Quincy,349,,
-,Revere,1645,,
-,Salem,250,,
-,Somerville,1152,,
-,Stoneham,261,,
-,Stoughton,154,,
-,Swampscott,184,,
-,Wakefield,186,,
-,Waltham,314,,
-,Watertown,282,,
-,Westborough,249,,
-,Weymouth,418,,
-,Winchester,96,,
-,Worcester,566,,
-MD,Annapolis,807,,
-,Baltimore,2977,,
-,Bethesda,1076,,
-,Bowie,324,,
-,Brandywine,243,,
-,Camp Springs,291,,
-,Capitol Heights,648,,
-,College Park,599,,
-,Columbia,854,,
-,Elkridge,1140,,
-,Elkton,330,,
-,Ellicott City,876,,
-,Frederick,304,,
-,Germantown,1330,,
-,Hyattsville,950,,
-,La Plata,288,,
-,Largo,560,,
-,Laurel,426,,
-,North Bethesda,446,,
-,Nottingham,212,,
-,Owings Mills,1060,,
-,Oxon Hill,262,,
-,Riverdale,451,,
-,Rockville,929,,
-,Silver Spring,325,,
-,Towson,105,,
-,Waldorf,463,,
-MI,Ann Arbor,1194,,
-,Clarkston,418,,
-,Clinton Township,264,,
-,East Lansing,106,,
-,Grandville,408,,
-,Lansing,626,,
-,Rochester,300,,
-,Rochester Hills,473,,
-,Shelby Township,796,,
-,Sterling Heights,888,,
-,Westland,177,,
-MN,Brooklyn Park,480,,
-,Burnsville,579,,
-,Cottage Grove,171,,
-,Edina,552,,
-,Hopkins,469,,
-,Inver Grove Heights,424,,
-,Lake Elmo,102,,
-,Maple Grove,220,,
-,Minneapolis,2021,,
-,Minnetonka,798,,
-,Rochester,741,,
-,Shakopee,428,,
-,St. Louis Park,397,,
-,St. Paul,419,,
-,West St. Paul,153,,
-,Woodbury,649,,
-MO,Fenton,200,,
-,Kansas City,995,,
-,Kirkwood,152,,
-,Lee's Summit,243,,
-,Maplewood,174,,
-,Springfield,207,,
-,St. Louis,406,,
-,St. Peters,549,,
-MS,Starkville,288,,
-NC,Apex,992,,
-,Asheville,1616,,
-,Belmont,322,,
-,Burlington,119,,
-,Candler,216,,
-,Carolina Shores,136,,
-,Carrboro,504,,
-,Cary,3259,,
-,Chapel Hill,2114,,
-,Charlotte,29076,,
-,Concord,328,,
-,Cornelius,212,,
-,Dallas,99,,
-,Durham,4440,,
-,Fuquay-Varina,251,,
-,Garner,198,,
-,Gastonia,229,,
-,Greensboro,630,,
-,Hendersonville,99,,
-,Hillsborough,383,,
-,Huntersville,1039,,
-,Indian Trail,204,,
-,Kernersville,64,,
-,Leland,602,,
-,Matthews,1441,,
-,Mebane,240,,
-,Monroe,151,,
-,Mooresville,1513,,
-,Morrisville,2474,,
-,Pineville,107,,
-,Raleigh,14191,,
-,Rolesville,140,,
-,Southern Pines,566,,
-,Wake Forest,344,,
-,Wendell,737,,
-,Wilmington,2449,,
-,Winston-Salem,712,,
-NE,Elkhorn,283,,
-,Gretna,182,,
-,Omaha,162,,
-,Papillion,154,,
-NH,Londonderry,264,,
-,Merrimack,224,,
-NJ,Bayonne,220,,
-,Cherry Hill,512,,
-,Cranford,250,,
-,East Rutherford,108,,
-,Englewood,350,,
-,Evesham,124,,
-,Flemington,406,,
-,Hackensack,361,,
-,Harrison,309,,
-,Hoboken,891,,
-,Jersey City,1587,,
-,Long Branch,170,,
-,Morris Plains,116,,
-,Morristown,129,,
-,New Brunswick,626,,
-,North Bergen,176,,
-,Parsippany,276,,
-,Secaucus,641,,
-,Wayne,465,,
-,Weehawken,1871,,
-,West New York,253,,
-,Woodbridge Township,146,,
-NM,Albuquerque,10877,,
-,Los Alamos,149,,
-,Rio Rancho,209,,
-,Santa Fe,1572,,
-NV,Henderson,3214,,
-,Las Vegas,8291,,
-,North Las Vegas,1141,,
-,Reno,1210,,
-NY,Astoria,354,,
-,Bay Shore,418,,
-,Bronxville,110,,
-,Brooklyn,2667,,
-,Buchanan,148,,
-,Buffalo,176,,
-,Farmingville,292,,
-,Glen Cove,385,,
-,Hauppauge,98,,
-,Hicksville,106,,
-,Ithaca,636,,
-,Long Island City,1106,,
-,New Rochelle,1494,,
-,New York,6073,,
-,Ossining,168,,
-,Patchogue,291,,
-,Port Jefferson,112,,
-,Port Jefferson Station,244,,
-,Ronkonkoma,877,,
-,Sloatsburg,384,,
-,Syracuse,722,,
-,Valley Stream,90,,
-,Westbury,130,,
-,White Plains,500,,
-,Yaphank,535,,
-OH,Cleveland,647,,
-,Kent,198,,
-,Lewis Center,256,,
-,Norwood,228,,
-,Westerville,218,,
-OK,Bixby,96,,
-,Broken Arrow,182,,
-,Norman,314,,
-,Oklahoma City,2242,,
-,Tulsa,1280,,
-,Yukon,150,,
-OR,Beaverton,1155,,
-,Bend,433,,
-,Corvallis,563,,
-,Crovallis,212,,
-,Eugene,2494,,
-,Gresham,810,,
-,Happy Valley,372,,
-,Hillsboro,2286,,
-,Lake Oswego,954,,
-,Milwaukie,403,,
-,Portland,6217,,
-,Salem,538,,
-,Sherwood,183,,
-,Tigard,1094,,
-,Tualatin,956,,
-,Wilsonville,696,,
-PA,Bala Cynwyd,292,,
-,Bethel Park,338,,
-,Bethlehem,144,,
-,Bridgeville,416,,
-,Conshohocken,280,,
-,Coraopolis,312,,
-,Elizabethtown,280,,
-,King of Prussia,611,,
-,Langhorne,202,,
-,Moon Township,336,,
-,Philadelphia,7066,,
-,Pittsburgh,3447,,
-,West Chester,205,,
-,Wynnewood,250,,
-RI,Warwick,214,,
-SC,Aiken,256,,
-,Beaufort,524,,
-,Bluffton,382,,
-,Charleston,4192,,
-,Columbia,1443,,
-,Conway,330,,
-,Daniel Island,589,,
-,Fort Mill,276,,
-,Fountain Inn,139,,
-,Greenville,1899,,
-,Greer,557,,
-,Hilton Head Island,500,,
-,Indian Land,991,,
-,Irmo,298,,
-,Johns Island,368,,
-,Ladson,692,,
-,Longs,588,,
-,Moncks Corner,223,,
-,Mount Pleasant,2503,,
-,Myrtle Beach,1398,,
-,North Charleston,1660,,
-,Simpsonville,190,,
-,Summerville,1197,,
-TN,Antioch,2146,,
-,Berry Hill,302,,
-,Brentwood,588,,
-,Chattanooga,592,,
-,Collierville,493,,
-,Franklin,1102,,
-,Hendersonville,815,,
-,Knoxville,574,,
-,Lebanon,273,,
-,Madison,973,,
-,Memphis,500,,
-,Murfreesboro,184,,
-,Nashville,11337,,
-,Smyrna,618,,
-,White House,216,,
-TX,Addison,714,,
-,Allen,2473,,
-,Anna,641,,
-,Arlington,1403,,
-,Aubrey,664,,
-,Austin,31044,,
-,Bastrop,342,,
-,Baytown,1545,,
-,Bee Cave,316,,
-,Benbrook,427,,
-,Boerne,592,,
-,Brookshire,302,,
-,Bryan,1027,,
-,Buda,360,,
-,Carrollton,661,,
-,Cedar Park,1124,,
-,Celina,914,,
-,Clute,360,,
-,College Station,384,,
-,Conroe,1270,,
-,Coppell,1001,,
-,Copperas Cove,188,,
-,Corinth,382,,
-,Corpus Christi,1580,,
-,Crandall,176,,
-,Cypress,2277,,
-,Dallas,12237,,
-,Del Valle,396,,
-,Denton,3005,,
-,Dripping Springs,172,,
-,Euless,1132,,
-,Fairview,195,,
-,Farmers Branch,256,,
-,Fate,336,,
-,Flower Mound,997,,
-,Forney,120,,
-,Fort Worth,7151,,
-,Fresno,320,,
-,Frisco,2273,,
-,Fulshear,520,,
-,Galveston,498,,
-,Garland,1107,,
-,Georgetown,1350,,
-,Grand Prairie,919,,
-,Grapevine,1462,,
-,Haltom City,600,,
-,Hickory Creek,360,,
-,Houston,44536,,
-,Hudson Oaks,332,,
-,Humble,1668,,
-,Huntsville,532,,
-,Hutto,76,,
-,Irving,2259,,
-,Justin,129,,
-,Katy,4312,,
-,Keller,638,,
-,Kennedale,270,,
-,Killeen,466,,
-,Kingwood,890,,
-,Kyle,651,,
-,La Porte,350,,
-,Lake Jackson,285,,
-,Lavon,732,,
-,League City,1168,,
-,Leander,2099,,
-,Lewisville,1446,,
-,Magnolia,158,,
-,Manchaca,303,,
-,Manor,570,,
-,Mansfield,447,,
-,McKinney,1435,,
-,Melissa,556,,
-,Mesquite,220,,
-,Mont Belvieu,684,,
-,New Braunfels,2151,,
-,New Caney,336,,
-,North Richland Hills,260,,
-,Pasadena,500,,
-,Pearland,719,,
-,Pflugerville,1590,,
-,Plano,1991,,
-,Porter,545,,
-,Prosper,621,,
-,Red Oak,306,,
-,Richardson,963,,
-,Richmond,2138,,
-,Rockwall,224,,
-,Rosharon,114,,
-,Round Rock,1432,,
-,Sachse,297,,
-,Saginaw,188,,
-,San Antonio,20660,,
-,San Marcos,2806,,
-,Selma,303,,
-,Sherman,340,,
-,Spring,2455,,
-,Stafford,1144,,
-,Sugar Land,934,,
-,Temple,206,,
-,The Woodlands,1893,,
-,Waco,1072,,
-,Waxahachie,175,,
-,Webster,380,,
-UT,American Fork,214,,
-,Bluffdale,147,,
-,Clearfield,855,,
-,Cottonwood Heights,300,,
-,Draper,912,,
-,Farmington,466,,
-,Herriman,1550,,
-,Holladay,70,,
-,Layton,400,,
-,Lehi,1185,,
-,Millcreek,217,,
-,Murray,820,,
-,North Salt Lake,303,,
-,Ogden,454,,
-,Pleasant Grove,149,,
-,Riverton,792,,
-,Roy,100,,
-,Salt Lake City,6164,,
-,Sandy,1008,,
-,Saratoga Springs,516,,
-,South Jordan,554,,
-,South Salt Lake,416,,
-,South Salt Lake City,578,,
-,Vineyard,453,,
-,West Haven,484,,
-,West Jordan,477,,
-,West Valley City,1115,,
-VA,Alexandria,3487,,
-,Arlington,4587,,
-,Ashburn,425,,
-,Blacksburg,442,,
-,Charlottesville,1583,,
-,Chesapeake,215,,
-,Fairfax,1542,,
-,Falls Church,779,,
-,Fredericksburg,1040,,
-,Glen Allen,305,,
-,Hampton,797,,
-,Harrisonburg,352,,
-,Henrico,447,,
-,Herndon,591,,
-,Leesburg,700,,
-,Manassas,735,,
-,Manassas Park,350,,
-,McLean,592,,
-,Newport News,296,,
-,Petersburg,126,,
-,Portsmouth,246,,
-,Reston,1201,,
-,Richmond,2657,,
-,Springfield,631,,
-,Sterling,1120,,
-,Tysons,400,,
-,Virginia Beach,724,,
-,Williamsburg,897,,
-,Woodbridge,1154,,
-WA,Auburn,430,,
-,Bainbridge Island,75,,
-,Battle Ground,180,,
-,Bellevue,3003,,
-,Bothell,203,,
-,Camas,506,,
-,Everett,902,,
-,Federal Way,1058,,
-,Issaquah,91,,
-,Kenmore,223,,
-,Kent,1263,,
-,Kirkland,309,,
-,Lacey,537,,
-,Lake Stevens,195,,
-,Lakewood,208,,
-,Liberty Lake,297,,
-,Lynnwood,1368,,
-,Mercer Island,645,,
-,Mukilteo,420,,
-,Newcastle,104,,
-,North Bend,128,,
-,Olympia,127,,
-,Puyallup,542,,
-,Redmond,2992,,
-,Renton,1673,,
-,SeaTac,289,,
-,Seattle,15406,,
-,Shoreline,82,,
-,Spokane,440,,
-,Spokane Valley,1624,,
-,Tacoma,2335,,
-,Tukwila,661,,
-,Tumwater,511,,
-,University Place,274,,
-,Vancouver,4849,,
-,Woodinville,250,,
-WI,Franklin,265,,
-,Glendale,311,,
-,Madison,959,,
-,Milwaukee,261,,
-WV,Morgantown,336,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,0
+State,City,SUM of Units
+AL,Auburn,423
+,Birmingham,173
+,Huntsville,679
+,Madison,561
+,Tuscaloosa,370
+AL Total,,2206
+AR,Alexander,403
+,Rogers,347
+AR Total,,750
+AZ,Avondale,2025
+,Buckeye,211
+,Casa Grande,240
+,Chandler,4568
+,Flagstaff,1023
+,Gilbert,1942
+,Glendale,3054
+,Goodyear,1040
+,Laveen,130
+,Litchfield Park,285
+,Maricopa,348
+,Mesa,3869
+,Peoria,1903
+,Phoenix,16213
+,Queen Creek,240
+,Scottsdale,5508
+,Surprise,587
+,Tempe,6347
+,Tolleson,195
+,Tucson,1550
+AZ Total,,51278
+CA,Agoura Hills,275
+,Alameda,518
+,Aliso Viejo,1265
+,Anaheim,2659
+,Antelope,728
+,Antioch,280
+,Azusa,290
+,Belmont,177
+,Berkeley,922
+,Brentwood,288
+,Burbank,1085
+,Burlingame,576
+,Campbell,180
+,Canoga Park,252
+,Capitola,78
+,Carlsbad,692
+,Carmichael,182
+,Chino Hills,332
+,Chula Vista,3638
+,Concord,201
+,Corona,1125
+,Costa Mesa,113
+,Culver City,454
+,Daly City,3103
+,Dana Point,109
+,Danville,96
+,Duarte,636
+,Dublin,390
+,East Palo Alto,1809
+,El Cajon,676
+,El Monte,208
+,Encinitas,72
+,Escondido,1951
+,Fairfield,380
+,Folsom,571
+,Fontana,550
+,Fountain Valley,433
+,Fremont,1002
+,Fullerton,615
+,Glendale,2369
+,Grand Terrace,556
+,Hayward,853
+,Hercules,172
+,Highland,200
+,Hollywood,180
+,Huntington Beach,1184
+,Inglewood,460
+,Irvine,775
+,Isla Vista,137
+,La Jolla,449
+,La Mesa,1259
+,La Quinta,371
+,Laguna Beach,421
+,Lake Elsinore,352
+,Lakewood,420
+,Lancaster,573
+,Larkspur,590
+,Lathrop,195
+,Livermore,458
+,Lompoc,328
+,Long Beach,2317
+,Los Angeles,16140
+,Los Gatos,290
+,Marina,693
+,Marina Del Rey,1341
+,Martinez,268
+,Menifee,567
+,Menlo Park,1074
+,Milpitas,216
+,Monrovia,1083
+,Montclair,513
+,Monterey,149
+,Moorpark,370
+,Moreno Valley,686
+,Morgan Hill,527
+,Mountain View,2765
+,Murrieta,2101
+,Newport Beach,1306
+,North Hollywood,2076
+,Oakland,1556
+,Oceanside,837
+,Ontario,281
+,Orange,634
+,Orangevale,254
+,Palm Desert,467
+,Palo Alto,92
+,Paramount,306
+,Pasadena,2354
+,Paso Robles,356
+,Perris,228
+,Petaluma,335
+,Placentia,418
+,Pleasant Hill,728
+,Pleasanton,651
+,Pomona,572
+,Rancho Cucamonga,1837
+,Rancho Palos Verdes,215
+,Rancho Santa Margarita,613
+,Redwood City,607
+,Richmond,480
+,Riverside,2367
+,Rocklin,171
+,Rohnert Park,516
+,Roseville,189
+,Sacramento,2518
+,Salinas,484
+,San Bruno,163
+,San Clemente,518
+,San Diego,17164
+,San Francisco,8665
+,San Gabriel,133
+,San Jose,6332
+,San Marcos,1276
+,San Mateo,1165
+,San Pablo,141
+,San Pedro,461
+,San Ramon,192
+,San Ysidro,223
+,Santa Ana,3224
+,Santa Clara,2020
+,Santa Clarita,1071
+,Santa Cruz,458
+,Santa Fe Springs,134
+,Santa Maria,924
+,Santa Monica,962
+,Santa Rosa,1123
+,Santee,428
+,Sausalito,198
+,Sherman Oaks,236
+,South San Francisco,234
+,Spring Valley,199
+,Stanton,621
+,Stevenson Ranch,295
+,Sunnyvale,1745
+,Temecula,1581
+,Thousand Oaks,218
+,Torrance,494
+,Tustin,240
+,Vacaville,310
+,Valencia,267
+,Vallejo,700
+,Venice,70
+,Ventura,1073
+,Vista,1265
+,Walnut Creek,820
+,West Covina,611
+,West Hollywood,124
+,West Sacramento,400
+,Westlake Village,126
+,Whittier,138
+,Wildomar,600
+,Woodland,192
+,Woodland Hills,660
+CA Total,,155955
+CO,Arvada,1480
+,Aurora,5594
+,Boulder,609
+,Brighton,288
+,Broomfield,1070
+,Castle Pines,164
+,Castle Rock,111
+,Centennial,987
+,Colorado Springs,5833
+,Denver,16592
+,Englewood,1757
+,Erie,151
+,Firestone,300
+,Fort Collins,1708
+,Glendale,324
+,Golden,774
+,Greeley,304
+,Greenwood Village,387
+,Highlands Ranch,1463
+,Lakewood,3623
+,Littleton,2888
+,Lone Tree,939
+,Longmont,440
+,Louisville,180
+,Loveland,592
+,Morrison,144
+,Northglenn,172
+,Parker,1121
+,Sheridan,316
+,Superior,405
+,Thornton,1895
+,Westminster,2892
+,Wheat Ridge,378
+CO Total,,55881
+CT,Darien,122
+,Middletown,240
+,New Canaan,104
+,Newington,269
+,Stamford,1096
+,Storrs,618
+,Trumbull,199
+,Wilton,173
+CT Total,,2821
+DC,Washington,14917
+DC Total,,14917
+DE,Newark,228
+,Wilmington,447
+DE Total,,675
+FL,Altamonte Springs,1114
+,Apopka,762
+,Boca Raton,885
+,Boynton Beach,210
+,Bradenton,232
+,Brandon,372
+,Cape Coral,724
+,Casselberry,203
+,Clearwater,2719
+,Clermont,392
+,Coral Gables,213
+,Coral Springs,348
+,Dania Beach,293
+,Davenport,1489
+,Davie,232
+,Daytona Beach,1026
+,DeLand,233
+,Delray Beach,1235
+,Destin,780
+,Doral,978
+,Estero,306
+,Fort Lauderdale,1641
+,Fort Myers,2423
+,Four Corners,300
+,Freeport,259
+,Hialeah,358
+,Homestead,288
+,Jacksonville,2661
+,Kissimmee,4165
+,Lady Lake,68
+,Lake Worth,668
+,Lakeland,1027
+,Lakewood Ranch,417
+,Land O' Lakes,625
+,Longwood,507
+,Lutz,753
+,Maitland,455
+,Margate,282
+,Mary Esther,229
+,Melbourne,471
+,Miami,6452
+,Miramar,530
+,Mount Dora,309
+,Naples,2076
+,New Port Richey,300
+,North Fort Myers,283
+,North Lauderdale,220
+,North Miami,175
+,North Venice,276
+,Ocala,228
+,Ocoee,315
+,Odessa,350
+,Orlando,9874
+,Oviedo,313
+,Palm Bay,197
+,Palm Beach Gardens,1141
+,Palm Harbor,264
+,Palmetto,724
+,Palmetto Bay,60
+,Panama City,233
+,Panama City Beach,488
+,Pembroke Pines,593
+,Pensacola,567
+,Pinellas Park,300
+,Plantation,1052
+,Pompano Beach,211
+,Port Orange,1026
+,Port St. Lucie,372
+,Riverview,352
+,Sanford,1048
+,Santa Rosa Beach,384
+,Sarasota,1204
+,St. Augustine,954
+,St. Cloud,300
+,St. Johns,844
+,St. Petersburg,1094
+,Stuart,604
+,Sunrise,270
+,Tallahassee,528
+,Tampa,5439
+,Trinity,348
+,Venice,520
+,Wesley Chapel,150
+,West Melbourne,373
+,West Miami,196
+,West Palm Beach,738
+,Weston,368
+,Wildwood,373
+,Wimauma,196
+,Windermere,346
+,Winter Garden,810
+,Winter Park,178
+FL Total,,78889
+GA,Acworth,923
+,Alpharetta,1169
+,Athens,684
+,Atlanta,15860
+,Augusta,1007
+,Austell,735
+,Bethlehem,288
+,Brookhaven,291
+,Buford,374
+,Cartersville,790
+,Chamblee,894
+,Columbus,340
+,Conyers,192
+,Covington,615
+,Cumming,630
+,Dallas,277
+,Dalton,234
+,Decatur,1111
+,Duluth,2945
+,Evans,300
+,Fairburn,540
+,Gainesville,936
+,Johns Creek,224
+,Jonesboro,198
+,Kennesaw,2107
+,LaGrange,615
+,Lawrenceville,748
+,Lithia Springs,942
+,Loganville,175
+,Mableton,270
+,Marietta,1070
+,Martinez,274
+,McDonough,1404
+,Newnan,269
+,Norcross,918
+,Oakwood,248
+,Peachtree Corners,544
+,Pooler,475
+,Port Wentworth,1243
+,Roswell,498
+,Sandy Springs,733
+,Savannah,2492
+,Smyrna,634
+,South Fulton,319
+,Stockbridge,657
+,Stone Mountain,479
+,Suwanee,98
+,Tucker,891
+,Union City,913
+,Villa Rica,280
+,Woodstock,502
+GA Total,,51355
+HI,Ewa Beach,1775
+,Honolulu,388
+,Kapolei,1019
+HI Total,,3182
+IA,West Des Moines,420
+IA Total,,420
+ID,Boise,1151
+,Caldwell,316
+,Coeur d'Alene,426
+,Eagle,184
+,Meridian,420
+,Post Falls,84
+,Rathdrum,276
+ID Total,,2857
+IL,Arlington Heights,280
+,Aurora,1084
+,Chicago,6486
+,Downers Grove,167
+,Edwardsville,168
+,Elk Grove,192
+,Elmhurst,364
+,Evanston,344
+,Glenview,169
+,La Grange,254
+,Lincolnwood,299
+,Lockport,240
+,Lombard,470
+,Mount Prospect,1295
+,Mundelein,166
+,Naperville,544
+,Park Ridge,115
+,Pingree Grove,99
+,Skokie,172
+,Tinley Park,144
+,Vernon Hills,447
+IL Total,,13499
+IN,Greenwood,552
+,Indianapolis,1372
+,Noblesville,318
+IN Total,,2242
+KS,Fairway,209
+,Kansas City,228
+,Lenexa,850
+,Overland Park,838
+,Prairie Village,282
+,Shawnee Mission,188
+,Wichita,1041
+KS Total,,3636
+KY,Covington,178
+,Louisville,3385
+KY Total,,3563
+LA,Baton Rouge,939
+,Gonzales,299
+,Hammond,312
+,Lafayette,348
+,Lake Charles,264
+,Metairie,336
+,New Orleans,330
+,Scott,216
+LA Total,,3044
+MA,Abington,198
+,Allston,50
+,Amherst,140
+,Andover,115
+,Arlington,164
+,Beverly,384
+,Billerica,324
+,Bolton,229
+,Boston,5459
+,Brighton,150
+,Cambridge,1422
+,Chelsea,452
+,Cohasset,220
+,Concord,350
+,Dedham,585
+,East Boston,230
+,Everett,1905
+,Framingham,528
+,Hanover,297
+,Hingham,220
+,Hudson,158
+,Lynn,725
+,Malden,295
+,Mansfield,200
+,Marlboro,240
+,Marlborough,1046
+,Marshfield,248
+,Medford,282
+,Melrose,182
+,Natick,164
+,Needham,189
+,Norton,188
+,Pembroke,240
+,Plymouth,220
+,Quincy,349
+,Revere,1645
+,Salem,250
+,Shrewsbury,196
+,Somerville,1152
+,Stoneham,261
+,Stoughton,154
+,Swampscott,184
+,Taunton,390
+,Wakefield,186
+,Waltham,614
+,Watertown,282
+,Westborough,249
+,Weymouth,418
+,Winchester,96
+,Worcester,566
+MA Total,,24791
+MD,Annapolis,807
+,Baltimore,2977
+,Bethesda,1076
+,Bowie,324
+,Brandywine,243
+,Camp Springs,291
+,Capitol Heights,648
+,College Park,599
+,Columbia,854
+,Elkridge,1140
+,Elkton,330
+,Ellicott City,876
+,Frederick,304
+,Germantown,1330
+,Hyattsville,950
+,La Plata,288
+,Largo,560
+,Laurel,426
+,North Bethesda,446
+,Nottingham,212
+,Owings Mills,1060
+,Oxon Hill,262
+,Riverdale,451
+,Rockville,929
+,Silver Spring,325
+,Towson,105
+,Waldorf,463
+MD Total,,18276
+MI,Ann Arbor,1194
+,Clarkston,418
+,Clinton Township,264
+,East Lansing,106
+,Grandville,408
+,Lansing,626
+,Rochester,300
+,Rochester Hills,473
+,Shelby Township,796
+,Sterling Heights,888
+,Westland,177
+MI Total,,5650
+MN,Brooklyn Park,480
+,Burnsville,579
+,Cottage Grove,171
+,Edina,552
+,Hopkins,469
+,Inver Grove Heights,424
+,Lake Elmo,102
+,Maple Grove,220
+,Minneapolis,2111
+,Minnetonka,1067
+,Rochester,741
+,Shakopee,428
+,St. Louis Park,397
+,St. Paul,419
+,West St. Paul,153
+,Woodbury,649
+MN Total,,8962
+MO,Fenton,200
+,Kansas City,995
+,Kirkwood,152
+,Lee's Summit,243
+,Maplewood,174
+,Springfield,207
+,St. Louis,406
+,St. Peters,549
+MO Total,,2926
+MS,Starkville,288
+MS Total,,288
+NC,Apex,992
+,Asheville,1616
+,Belmont,322
+,Burlington,119
+,Candler,216
+,Carolina Shores,136
+,Carrboro,504
+,Cary,3259
+,Chapel Hill,2114
+,Charlotte,30610
+,Concord,328
+,Cornelius,212
+,Dallas,99
+,Durham,4440
+,Fuquay-Varina,251
+,Garner,198
+,Gastonia,229
+,Greensboro,630
+,Hendersonville,99
+,Hillsborough,383
+,Huntersville,1039
+,Indian Trail,204
+,Kernersville,64
+,Leland,602
+,Matthews,1441
+,Mebane,240
+,Monroe,151
+,Mooresville,1513
+,Morrisville,2474
+,Pineville,107
+,Raleigh,15298
+,Rolesville,140
+,Southern Pines,566
+,Wake Forest,344
+,Wendell,737
+,Wilmington,2449
+,Winston-Salem,712
+NC Total,,74838
+NE,Elkhorn,283
+,Gretna,182
+,Omaha,162
+,Papillion,154
+NE Total,,781
+NH,Londonderry,264
+,Merrimack,224
+NH Total,,488
+NJ,Bayonne,220
+,Cherry Hill,512
+,Cranford,250
+,East Rutherford,108
+,Englewood,350
+,Evesham,124
+,Flemington,406
+,Hackensack,361
+,Harrison,309
+,Hoboken,891
+,Jersey City,1587
+,Long Branch,170
+,Morris Plains,116
+,Morristown,129
+,New Brunswick,626
+,North Bergen,176
+,Parsippany,276
+,Secaucus,641
+,Wayne,465
+,Weehawken,1871
+,West New York,253
+,Woodbridge Township,146
+NJ Total,,9987
+NM,Albuquerque,10877
+,Los Alamos,149
+,Rio Rancho,209
+,Santa Fe,1572
+NM Total,,12807
+NV,Henderson,3214
+,Las Vegas,8291
+,North Las Vegas,1141
+,Reno,1210
+NV Total,,13856
+NY,Astoria,354
+,Bay Shore,418
+,Bronxville,110
+,Brooklyn,2667
+,Buchanan,148
+,Buffalo,176
+,Farmingville,292
+,Glen Cove,385
+,Hauppauge,98
+,Hicksville,106
+,Ithaca,1251
+,Long Island City,1106
+,New Rochelle,1494
+,New York,6073
+,Ossining,168
+,Patchogue,291
+,Port Chester,245
+,Port Jefferson,112
+,Port Jefferson Station,244
+,Ronkonkoma,877
+,Sloatsburg,384
+,Syracuse,722
+,Valley Stream,90
+,Westbury,130
+,White Plains,500
+,Yaphank,535
+NY Total,,18976
+OH,Cleveland,647
+,Kent,198
+,Lewis Center,256
+,Norwood,228
+,Westerville,218
+OH Total,,1547
+OK,Bixby,96
+,Broken Arrow,182
+,Norman,314
+,Oklahoma City,2242
+,Tulsa,1280
+,Yukon,150
+OK Total,,4264
+OR,Beaverton,1155
+,Bend,433
+,Corvallis,563
+,Crovallis,212
+,Eugene,2851
+,Gresham,810
+,Happy Valley,372
+,Hillsboro,2286
+,Lake Oswego,954
+,Milwaukie,403
+,Portland,6217
+,Salem,538
+,Sherwood,183
+,Tigard,1094
+,Tualatin,956
+,Wilsonville,696
+OR Total,,19723
+PA,Bala Cynwyd,292
+,Bethel Park,338
+,Bethlehem,144
+,Bridgeville,416
+,Conshohocken,280
+,Coraopolis,312
+,Elizabethtown,280
+,King of Prussia,816
+,Langhorne,202
+,Malvern,400
+,Moon Township,336
+,Philadelphia,7066
+,Pittsburgh,3825
+,State College,500
+,West Chester,205
+,Wynnewood,250
+PA Total,,15662
+RI,Warwick,214
+RI Total,,214
+SC,Aiken,256
+,Beaufort,524
+,Bluffton,382
+,Charleston,4192
+,Columbia,1443
+,Conway,330
+,Daniel Island,589
+,Fort Mill,276
+,Fountain Inn,139
+,Greenville,1899
+,Greer,557
+,Hilton Head Island,500
+,Indian Land,991
+,Irmo,298
+,Johns Island,368
+,Ladson,692
+,Longs,588
+,Moncks Corner,223
+,Mount Pleasant,2503
+,Myrtle Beach,1398
+,North Charleston,1660
+,Simpsonville,190
+,Summerville,1197
+SC Total,,21195
+TN,Antioch,2146
+,Berry Hill,302
+,Brentwood,588
+,Chattanooga,592
+,Collierville,493
+,Franklin,1102
+,Hendersonville,815
+,Knoxville,574
+,Lebanon,273
+,Madison,973
+,Memphis,500
+,Murfreesboro,184
+,Nashville,11337
+,Smyrna,718
+,White House,216
+TN Total,,20813
+TX,Addison,714
+,Allen,2473
+,Anna,641
+,Arlington,1403
+,Aubrey,664
+,Austin,31948
+,Bastrop,342
+,Baytown,1545
+,Bee Cave,316
+,Benbrook,427
+,Boerne,592
+,Brookshire,302
+,Bryan,1027
+,Buda,360
+,Carrollton,661
+,Cedar Park,1124
+,Celina,914
+,Clute,360
+,College Station,384
+,Conroe,1270
+,Coppell,1001
+,Copperas Cove,188
+,Corinth,382
+,Corpus Christi,1580
+,Crandall,176
+,Cypress,2277
+,Dallas,12602
+,Del Valle,396
+,Denton,3005
+,Dripping Springs,172
+,Euless,1132
+,Fairview,195
+,Farmers Branch,256
+,Fate,336
+,Flower Mound,997
+,Forney,120
+,Fort Worth,8299
+,Fresno,320
+,Frisco,2273
+,Fulshear,520
+,Galveston,498
+,Garland,1107
+,Georgetown,1350
+,Grand Prairie,919
+,Grapevine,1462
+,Haltom City,600
+,Hickory Creek,360
+,Houston,44536
+,Hudson Oaks,332
+,Humble,1668
+,Huntsville,532
+,Hutto,76
+,Irving,2259
+,Justin,129
+,Katy,4312
+,Keller,638
+,Kennedale,270
+,Killeen,466
+,Kingwood,890
+,Kyle,651
+,La Porte,350
+,Lake Jackson,285
+,Lavon,732
+,League City,1168
+,Leander,2099
+,Lewisville,1446
+,Magnolia,158
+,Manchaca,303
+,Manor,570
+,Mansfield,447
+,McKinney,1435
+,Melissa,556
+,Mesquite,220
+,Mont Belvieu,684
+,New Braunfels,2151
+,New Caney,336
+,North Richland Hills,260
+,Pasadena,500
+,Pearland,719
+,Pflugerville,1590
+,Plano,1991
+,Porter,545
+,Prosper,621
+,Red Oak,306
+,Richardson,963
+,Richmond,2138
+,Rockwall,224
+,Rosharon,114
+,Round Rock,1432
+,Sachse,297
+,Saginaw,188
+,San Antonio,20660
+,San Marcos,2806
+,Sanger,612
+,Selma,303
+,Sherman,340
+,Spring,2455
+,Stafford,1144
+,Sugar Land,934
+,Temple,206
+,The Woodlands,1893
+,Waco,1072
+,Waxahachie,175
+,Webster,380
+TX Total,,204557
+UT,American Fork,214
+,Bluffdale,147
+,Clearfield,855
+,Cottonwood Heights,300
+,Draper,912
+,Farmington,466
+,Herriman,1550
+,Holladay,70
+,Layton,400
+,Lehi,1185
+,Millcreek,217
+,Murray,820
+,North Salt Lake,303
+,Ogden,454
+,Pleasant Grove,149
+,Riverton,792
+,Roy,100
+,Salt Lake City,6164
+,Sandy,1008
+,Saratoga Springs,516
+,South Jordan,554
+,South Salt Lake,416
+,South Salt Lake City,578
+,Vineyard,453
+,West Haven,484
+,West Jordan,477
+,West Valley City,1115
+UT Total,,20699
+VA,Alexandria,3487
+,Arlington,4587
+,Ashburn,425
+,Blacksburg,442
+,Charlottesville,1583
+,Chesapeake,215
+,Fairfax,1542
+,Falls Church,779
+,Fredericksburg,1040
+,Glen Allen,305
+,Hampton,797
+,Harrisonburg,352
+,Henrico,447
+,Herndon,591
+,Leesburg,700
+,Manassas,735
+,Manassas Park,350
+,McLean,592
+,Newport News,296
+,Petersburg,126
+,Portsmouth,246
+,Reston,1201
+,Richmond,3046
+,Springfield,631
+,Sterling,1120
+,Tysons,400
+,Virginia Beach,724
+,Williamsburg,897
+,Woodbridge,1154
+VA Total,,28810
+WA,Auburn,430
+,Bainbridge Island,75
+,Battle Ground,180
+,Bellevue,3003
+,Bothell,203
+,Camas,506
+,Everett,902
+,Federal Way,1058
+,Issaquah,91
+,Kenmore,223
+,Kent,1263
+,Kirkland,309
+,Lacey,537
+,Lake Stevens,195
+,Lakewood,208
+,Liberty Lake,297
+,Lynnwood,1368
+,Mercer Island,645
+,Mukilteo,420
+,Newcastle,104
+,North Bend,128
+,Olympia,127
+,Puyallup,542
+,Redmond,2992
+,Renton,1673
+,SeaTac,289
+,Seattle,15756
+,Shoreline,82
+,Spokane,440
+,Spokane Valley,1624
+,Tacoma,2335
+,Tukwila,661
+,Tumwater,511
+,University Place,274
+,Vancouver,4849
+,Woodinville,250
+WA Total,,44550
+WI,Franklin,265
+,Glendale,311
+,Madison,959
+,Milwaukee,261
+WI Total,,1796
+WV,Morgantown,336
+WV Total,,336
+Grand Total,,1023962
